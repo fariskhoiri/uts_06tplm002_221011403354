@@ -1,6 +1,6 @@
 # Aplikasi Cuaca Sederhana
 
-Ini adalah aplikasi cuaca sederhana yang dibuat menggunakan framework Flutter dengan bahasa Dart untuk memenuhi UTS dari mata kuliah Mobile Programming.
+Ini adalah aplikasi cuaca sederhana yang dibuat menggunakan framework Flutter untuk memenuhi UTS dari mata kuliah Mobile Programming.
 
 ## Author
 
