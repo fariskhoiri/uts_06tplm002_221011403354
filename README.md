@@ -1,6 +1,14 @@
-# simple_weather_app
+# Aplikasi Cuaca Sederhana
 
-A new Flutter project.
+Ini adalah aplikasi cuaca sederhana yang dibuat menggunakan framework Flutter dengan bahasa Dart untuk memenuhi UTS dari mata kuliah Mobile Programming.
+
+## Author
+
+- [@fariskhoiri](https://github.com/fariskhoiri)
+
+## Screenshots
+
+![App Screenshot](screenshot.png?raw=true "Optional Title")
 
 ## Getting Started
 
