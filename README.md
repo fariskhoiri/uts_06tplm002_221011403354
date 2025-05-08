@@ -6,7 +6,7 @@ Ini adalah aplikasi cuaca sederhana yang dibuat menggunakan framework Flutter un
 
 - [@fariskhoiri](https://github.com/fariskhoiri)
 
-## Screenshots
+## Screenshot
 
 ![App Screenshot](screenshot.png?raw=true "Optional Title")
 
